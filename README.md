@@ -6,6 +6,7 @@
   * Dionnea
   * Amun
   * Suricata
+ <img src = "honeypotsensor.png">
  
  <h4>Issues</h4>
  I ran into a lot of google cloud issues where I did not have credits. I also had initial issues with the instructions because they were not presented clearly. After they were updated I was able to do some work but still had trouble using google cloud. There was missing information from the instructions that I had a friend clear up. For example, in Google Cloud's settings you have to allow http and https traffic on mhn-admin in order to access it. 
